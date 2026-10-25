@@ -23,7 +23,7 @@
 ---
 
 ## 👨‍💻 About Me
-
+```cpp
 class AshutoshUpreti {
 public:
     string role = "Computer Science Undergraduate";
@@ -46,7 +46,7 @@ public:
     string currentFocus =
         "Building efficient and reliable software systems";
 };
-
+```
 
 - 🎓 Pursuing B.Tech in Computer Science.
 - 🧠 Solved **400+ algorithmic problems** across LeetCode and Codeforces.
