@@ -24,7 +24,6 @@
 
 ## 👨‍💻 About Me
 
-```cpp
 class AshutoshUpreti {
 public:
     string role = "Computer Science Undergraduate";
@@ -47,7 +46,7 @@ public:
     string currentFocus =
         "Building efficient and reliable software systems";
 };
-```
+
 
 - 🎓 Pursuing B.Tech in Computer Science.
 - 🧠 Solved **400+ algorithmic problems** across LeetCode and Codeforces.
@@ -200,7 +199,7 @@ A computer vision application for webcam-based face detection and identification
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" width="100%"/>
 
 </div>
-```
+
 
 ## 🐍 Enable the contribution snake animation
 
