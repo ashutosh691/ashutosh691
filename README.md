@@ -1,4 +1,3 @@
-```markdown
 <!-- ANIMATED HEADER -->
 <div align="center">
 
