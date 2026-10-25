@@ -199,23 +199,3 @@ A computer vision application for webcam-based face detection and identification
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" width="100%"/>
 
 </div>
-
-
-## 🐍 Enable the contribution snake animation
-
-The snake animation requires a GitHub Actions workflow; adding the image tag alone will not generate it.
-
-1. Open your profile repository: [ashutosh691/ashutosh691 on GitHub](https://github.com/ashutosh691/ashutosh691?utm_source=chatgpt.com).
-2. Open the **Actions** tab and create a workflow file at `.github/workflows/snake.yml`.
-3. Use the official generator's setup instructions: [Platane/snk GitHub repository](https://github.com/Platane/snk?utm_source=chatgpt.com).
-4. Configure the workflow to generate `github-contribution-grid-snake-dark.svg` and publish it to the `output` branch.
-5. Ensure repository Actions permissions allow the workflow to write to that branch.
-
-### Before you publish
-
-- Confirm that the three project repository URLs are correct.
-- The typing animation, header, badges, and statistics depend on external services, so they may occasionally fail to load.
-- The GitHub statistics cards show data returned by their respective services; they are not official GitHub analytics.
-- The contribution snake will appear only after the workflow successfully generates the SVG.
-
-**Design tip:** Keep the animated header and typing effect, but avoid adding too many moving elements. This version combines animation with a project-focused layout so your profile still looks professional to internship recruiters.
