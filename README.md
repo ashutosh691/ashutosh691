@@ -1,4 +1,3 @@
-```markdown
 # Hey, I'm Ashutosh Upreti 👋
 
 ### Computer Science Student | C++ Developer | Competitive Programmer
@@ -111,4 +110,3 @@ I’m a Computer Science undergraduate at **Graphic Era Deemed to be University*
 <p align="center">
   <i>Building, learning, and solving one problem at a time.</i>
 </p>
-```
