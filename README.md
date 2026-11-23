@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/ashutosh-upreti-835540321/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://leetcode.com/u/ash691/">
+<a href="https://leetcode.com/u/smile_users/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
